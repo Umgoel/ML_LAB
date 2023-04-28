@@ -1,0 +1,17 @@
+PropertySize,Area,Pricing,Answer
+Big,City,Expensive,Yes
+Small,City,Expensive,No
+Small,Rural,Cheap,Yes
+Big,Suburban,Expensive,Yes
+Small,Suburban,Cheap,No
+Big,Rural,Cheap,No
+Small,Rural,Cheap,Yes
+Big,Rural,Cheap,Yes
+Big,Suburban,Expensive,Yes
+Small,City,Cheap,No
+Big,Rural,Cheap,No
+Small,Rural,Cheap,Yes
+Big,Suburban,Expensive,Yes
+Small,Suburban,Cheap,No
+Big,Rural,Cheap,No
+Small,Rural,Cheap,Yes
